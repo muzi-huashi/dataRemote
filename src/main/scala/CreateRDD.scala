@@ -8,7 +8,6 @@ object CreateRDD {
   def main(args: Array[String]): Unit = {
 
     val rdd = List[String]("aa","bb")
-    println("tree1!")
-    println("tree2!")
+    println("tree bbb!")
   }
 }
