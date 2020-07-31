@@ -9,8 +9,5 @@ object CreateRDD {
 
     val rdd = List[String]("aa","bb")
     println("aaa")
-    println("tree bbb!")
-    println("ccc")
-    println("eee")
   }
 }
