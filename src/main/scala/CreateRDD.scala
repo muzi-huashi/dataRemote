@@ -8,5 +8,6 @@ object CreateRDD {
   def main(args: Array[String]): Unit = {
 
     val rdd = List[String]("aa","bb")
+    System.out.println("master1!")
   }
 }
